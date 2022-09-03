@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Customer List</title>
+        <link rel="stylesheet" href="style.css">
+        <script src="main.js"></script>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <h1>Customers</h1>
+
+        <button id="GetButton">Get All Customers</button>
+        <br>
+        <button id="AddButton">Add</button>
+        <button id="DeleteButton" disabled>Delete</button>
+        <button id="UpdateButton" disabled>Update</button>
+
+        <div id="AddUpdatePanel">
+
+            <div>
+                <div class="formLabel">ID:</div><input id="idInput" type="number">
+            </div>
+            <div>
+                <div class="formLabel">Name:</div><input id="customerNameInput" type="text">
+            </div>
+            <div>
+                <div class="formLabel">Gender:</div><input id="genderInput" type="text">
+            </div>
+            <div>
+                <div class="formLabel">Age:</div><input id="ageInput" type="number">
+            </div>
+            <div>
+                <button id="DoneButton">Done</button>
+                <button id="CancelButton">Cancel</button>
+            </div>
+        </div>
+
+        <table>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Gender</th>
+                <th>Age</th>
+            </tr>
+        </table>
+
+    </body>
+</html>

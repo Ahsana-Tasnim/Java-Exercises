@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Source/Winter_2022/AdvancedJava/CRUIDApp/web/ShowItems.jsp</file>
+            <file>file:/C:/Source/Winter_2022/AdvancedJava/CRUIDApp/src/java/dbaccess/ConnectionManager.java</file>
+            <file>file:/C:/Source/Winter_2022/AdvancedJava/CRUIDApp/src/java/controller/DisplayServelet.java</file>
+            <file>file:/C:/Source/Winter_2022/AdvancedJava/CRUIDApp/web/CreateItem.jsp</file>
+            <file>file:/C:/Source/Winter_2022/AdvancedJava/CRUIDApp/src/java/entity/MenuItemCategory.java</file>
+            <file>file:/C:/Source/Winter_2022/AdvancedJava/CRUIDApp/src/java/dbaccess/MenuItemAcceeseer.java</file>
+            <file>file:/C:/Source/Winter_2022/AdvancedJava/CRUIDApp/src/java/dbaccess/ConnectionParameters.java</file>
+            <file>file:/C:/Source/Winter_2022/AdvancedJava/CRUIDApp/src/java/controller/AddItemServlet.java</file>
+            <file>file:/C:/Source/Winter_2022/AdvancedJava/CRUIDApp/web/error.jsp</file>
+            <file>file:/C:/Source/Winter_2022/AdvancedJava/CRUIDApp/web/RestaurantStyleSheet.css</file>
+            <file>file:/C:/Source/Winter_2022/AdvancedJava/CRUIDApp/web/index.html</file>
+            <file>file:/C:/Source/Winter_2022/AdvancedJava/CRUIDApp/src/java/controller/DeleteServlet.java</file>
+            <file>file:/C:/Source/Winter_2022/AdvancedJava/CRUIDApp/src/java/entity/MenuItem.java</file>
+        </group>
+    </open-files>
+</project-private>

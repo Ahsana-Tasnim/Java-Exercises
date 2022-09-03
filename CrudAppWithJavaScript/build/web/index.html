@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Restaurant Rest Api</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="mainStyleSheet.css">
+        <script src="main.js"></script>
+    </head>
+    <body>
+        <h1>Menu Items</h1>
+        <button id="GetButton">Get Data</button>
+        <br>
+        <button id="AddButton">Add</button>
+        <button id="DeleteButton" disabled>Delete</button>
+        <button id="UpdateButton" disabled>Update</button>
+        <div id="AddUpdatePanel">
+            <div>
+                <div class="formLabel">ID</div><input id="itemIdInput" type="number">
+            </div>
+            
+            <div>
+                <div class="formLabel">Category</div>
+                <select id="categorySelect"></select>
+            </div>
+            
+            <div>
+                <div class="formLabel">Description</div><input id="descriptionInput" type="text">
+            </div>
+            
+            <div>
+                <div class="formLabel">Price</div><input id="priceInput" type="number">
+            </div>
+            
+            <div>
+                <div class="formLabel">Vegetarian</div><input id="vegetarianInput" type="checkbox">
+            </div>
+            
+            <div>
+                <button id="doneButton">Done</button>
+                <button id="cancelButton">Cancel</button>
+            </div>
+        </div>
+        
+        <table>
+            <tr>
+                <th>ID</th>
+                <th>Category</th>
+                <th>Description</th>
+                <th>Price</th>
+                <th>Veg</th>
+                
+            </tr>
+        </table>
+    </body>
+</html>

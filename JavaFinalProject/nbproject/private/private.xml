@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Source/Winter_2022/AdvancedJava/JavaFinalProject/web/ErrorPage.jsp</file>
+            <file>file:/C:/Source/Winter_2022/AdvancedJava/JavaFinalProject/src/java/Controller/DeleteProductServlet.java</file>
+            <file>file:/C:/Source/Winter_2022/AdvancedJava/JavaFinalProject/src/java/Controller/AddProductServlet.java</file>
+            <file>file:/C:/Source/Winter_2022/AdvancedJava/JavaFinalProject/web/index.html</file>
+            <file>file:/C:/Source/Winter_2022/AdvancedJava/JavaFinalProject/web/ShowProducts.jsp</file>
+            <file>file:/C:/Source/Winter_2022/AdvancedJava/JavaFinalProject/src/java/DBAccess/UserAccessor.java</file>
+            <file>file:/C:/Source/Winter_2022/AdvancedJava/JavaFinalProject/src/java/Controller/LoginServlet.java</file>
+            <file>file:/C:/Source/Winter_2022/AdvancedJava/JavaFinalProject/src/java/Controller/AddUserServlet.java</file>
+            <file>file:/C:/Source/Winter_2022/AdvancedJava/JavaFinalProject/src/java/Entity/User.java</file>
+            <file>file:/C:/Source/Winter_2022/AdvancedJava/JavaFinalProject/src/java/Controller/BuildOneProductServlet.java</file>
+            <file>file:/C:/Source/Winter_2022/AdvancedJava/JavaFinalProject/src/java/DBAccess/ProductAccessor.java</file>
+            <file>file:/C:/Source/Winter_2022/AdvancedJava/JavaFinalProject/src/java/Controller/DisplayProductServlet.java</file>
+        </group>
+    </open-files>
+</project-private>

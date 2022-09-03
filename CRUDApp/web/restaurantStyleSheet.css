@@ -1,0 +1,50 @@
+table{
+    border: solid thin gray;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    width: 83%;
+    
+}
+h1{
+    text-align: center;
+}
+
+td,th{
+    padding: 10px;
+    border: solid thin gray;
+    border-collapse: collapse;
+}
+th{
+    text-align: left;
+    background-color: midnightblue;
+    color: white;
+}
+tr:hover{
+    background-color: lightblue;
+}
+.addbtn{
+    background-color: lightgreen;
+    margin-left: 10%;
+    margin-bottom: 25px;
+    font-size: 14px;
+    font-weight: bold;
+    }
+    .delbtn{
+        background-color: lightcoral;
+    }
+    
+    .updbtn{
+        background-color: lightskyblue;
+    }
+    .addform{
+        box-sizing: border-box;
+        margin-left: 37%;
+    }
+    
+    label{
+        position: absolute;
+    }
+    #txt{
+        margin-left: 7em;
+    }

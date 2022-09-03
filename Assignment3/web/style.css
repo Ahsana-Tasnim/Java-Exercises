@@ -1,0 +1,45 @@
+html{
+    text-align: center;
+}
+.highlighted{
+    background-color: yellow;
+}
+
+.hidden{
+    display: none;
+}
+h1{
+    color: #006699;
+}
+table, td, th{
+    border: solid thin gray;
+    border-collapse: collapse;
+    text-align: center;
+    width: 35%;
+    margin: auto;
+    margin-top: 5%;
+}
+button{
+    margin: 2%;
+}
+th{
+    background-color: #006699;
+    color: white;
+    font-weight: bold;
+}
+.formLabel{
+    text-align: center;
+    margin-top: 1%;
+    color:#006699;
+}
+
+tr:hover {
+    background-color: lightgreen;
+}
+
+#AddUpdatePanel{
+    background-color: lavender;
+    padding: 20px;
+}
+
+
