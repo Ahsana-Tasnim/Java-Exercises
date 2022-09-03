@@ -1,0 +1,5 @@
+1. Inheritance is an "is-a" relationship and Composition is a "has-a" relationship.
+2. In Inheritance, a class can extend only one interface and we can reuse the code only in one class.
+   On the other hand, in Composition, we can resuse code in multiple class.
+3. Inheritance exposes both public and protected method of the parent class. 
+   However, Compisition doesn't expose. It interacts using public interface.

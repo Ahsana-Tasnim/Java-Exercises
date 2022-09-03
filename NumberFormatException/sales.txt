@@ -1,0 +1,4 @@
+east,100
+west,200
+north
+south,400
